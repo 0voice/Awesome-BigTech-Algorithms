@@ -264,7 +264,6 @@
 | 把数组排成最小的数 | 排序、字符串 | 中等 | 高 | [剑指 Offer 45](https://leetcode.cn/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) |
 | 把数字翻译成字符串 | 动态规划 | 中等 | 高 | [剑指 Offer 46](https://leetcode.cn/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) |
 | 礼物的最大价值 | 动态规划、矩阵 | 中等 | 高 | [剑指 Offer 47](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/) |
-| 在排序数组中查找数字 I | 数组、二分查找 | 中等 | 高 | [剑指 Offer 53 - I](https://leetcode.cn/problems/zai-pai-lie-shu-zu-zhong-bian-yi-shu-zi-lcof/) |
 | 数组中数字出现的次数 | 位运算、数组 | 中等 | 高 | [剑指 Offer 56 - I](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) |
 | 二叉搜索树的第k大节点 | 树、深度优先搜索 | 中等 | 高 | [剑指 Offer 54](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) |
 | 股票的最大利润 | 数组、动态规划 | 中等 | 高 | [剑指 Offer 63](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/) |
@@ -398,7 +397,6 @@
 | 和为 s 的两个数字 | 数组、哈希表 | 中等 | 高 | [剑指 Offer 57](https://leetcode.cn/problems/he-wei-s-de-liang-ge-shu-zi-lcof/) |
 | 圆圈中最后剩下的数 | 数组、数学 | 中等 | 高 | [剑指 Offer 62](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) |
 | 构建乘积数组 | 数组、前缀和 | 中等 | 高 | [剑指 Offer 66](https://leetcode.cn/problems/gou-jian-cheng-ji-shu-zu-lcof/) |
-| 在排序数组中查找数字 I | 数组、二分查找 | 中等 | 高 | [剑指 Offer 53 - I](https://leetcode.cn/problems/zai-pai-lie-shu-zu-zhong-bian-yi-shu-zi-lcof/) |
 
 ### 小米
 | 题目名称 | 标签 | 难度 | 频率 | 题目链接 |
