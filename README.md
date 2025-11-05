@@ -240,6 +240,7 @@
 |----------|------|------|------|----------|
 | 多数元素 | 数组、分治 | 简单 | 高 | [LeetCode 169](https://leetcode.cn/problems/majority-element/) |
 | 复数乘法 | 数学、字符串 | 简单 | 中等 | [LeetCode 537](https://leetcode.cn/problems/complex-number-multiplication/) |
+| 反转链表 | 链表, 递归 | 简单 | 高 | [LeetCode 206](https://leetcode.cn/problems/reverse-linked-list/) |
 | 替换空格 | 字符串、双指针 | 简单 | 高 | [剑指 Offer 05](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/) |
 | 斐波那契数列 | 动态规划 | 简单 | 高 | [剑指 Offer 126](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/) |
 | 矩阵中的路径 | 深度优先搜索、回溯 | 中等 | 高 | [剑指 Offer 12](https://leetcode.cn/problems/ju-zhen-zhong-de-lu-jing-lcof/) |
