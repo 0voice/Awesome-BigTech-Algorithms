@@ -1,6 +1,6 @@
 # 📁 2025 Latest Big Tech Algorithm Questions Collection
 
-[中文版 README](README.zh.md)
+[中文版 README](README.md)
 
 This repository is a curated collection of algorithm problems, focusing on classic questions from big tech interviews, campus recruitment written tests, and popular practice platforms.
 
