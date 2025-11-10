@@ -6,6 +6,8 @@ A curated list of high-frequency LeetCode problems for Big Tech interviews✨
 
 ## 🧭 Quick Navigation
 [Big Tech Algorithm Questions](#-big-tech-algorithm-questions)  
+[Core Exam Points](#-core-exam-points)  
+[High-Frequency Question Summary](#-high-frequency-question-summary)  
 [Practice Platforms](#-practice-platforms)  
 [Resource Notes](#-resource-notes)  
 [Contribution Guidelines](#-contribution-guidelines)
@@ -715,6 +717,54 @@ A curated list of high-frequency LeetCode problems for Big Tech interviews✨
 | Longest Increasing Subsequence | Medium | Dynamic Programming, Array | High | [LeetCode 300](https://leetcode.com/problems/longest-increasing-subsequence/) |
 | Interleaving String | Medium | Dynamic Programming, String | Medium | [LeetCode 97](https://leetcode.com/problems/interleaving-string/) |
 | Edit Distance | Medium | Dynamic Programming, String | Medium | [LeetCode 72](https://leetcode.com/problems/edit-distance/) |
+
+## 🔑 Core Exam Points
+### I. Data Structures
+- Arrays and Strings: Basic operations, substring/subarray problems, matching and compression, prefix sums/differences
+- Linked Lists: Traversal, reversal, cycle detection, node deletion/merging, fast-slow pointer applications
+- Stacks and Queues: Monotonic stacks, monotonic queues, stack/queue design, bracket matching related
+- Trees and Binary Trees: Traversal (recursive/iterative), lowest common ancestor, path problems, balanced tree properties
+- Heaps (Priority Queues): Top K problems, median finding, merging multiple ordered data
+- Hash Tables: Mapping, deduplication, frequency statistics, cache design support
+- Graphs: Traversal (DFS/BFS), shortest paths, minimum spanning trees, topological sorting, connectivity checks
+- Sets and Union-Find: Element grouping, connected components calculation, path compression optimization
+### II. Algorithmic Thinking
+- Dynamic Programming (DP): Sequence DP, interval DP, knapsack problems, state compression DP, multi-constraint DP
+- Greedy Algorithms: Interval scheduling, resource allocation, optimal selection problems, deriving global optimality from local optimality
+- Binary Search: Ordered data search, boundary value finding, binary search on answers, rotated array related
+- Backtracking: Permutations and combinations, subset problems, pruning optimization, path search
+- Divide and Conquer: Problem decomposition and merging, large-scale data splitting and processing
+- Sliding Window: Fixed/variable windows, substring/subarray extrema and matching
+- Two Pointers: Fast-slow pointers, left-right pointers, ordered data pairing and filtering
+- Bit Operations: Bit manipulation, state representation, XOR applications, bit counting
+### III. High-Frequency Scenarios and Design Types
+- Design Types: LRU/LFU cache, queue/stack design, distributed locks, message queue core logic
+- Business Adaptation: Massive data processing, high-concurrency optimization, low-power/memory-constrained adaptation
+- Sorting Related: Basic sorting optimization, custom sorting rules, stability applications
+- Mathematics and Probability: Integer operations, prime number checking, random number generation, probability calculation
+### IV. Other Exam Points
+- Trie (Prefix Tree): String prefix matching, word frequency statistics
+- Hash Function Design: Conflict handling, data sharding adaptation
+- Simulation Problems: Business process reconstruction, logical deduction
+- Exception Handling: Boundary conditions, empty inputs, ultra-large data scale adaptation
+## 💡 High-Frequency Question Summary
+Summary of high-frequency LeetCode questions examined by internet big companies (covering 80% core exam points, sorted by examination frequency):
+### I. Arrays and Strings
+Two Sum, Three Sum, Longest Substring Without Repeating Characters, Longest Common Prefix, Merge Intervals, Sliding Window Maximum, Trapping Rain Water, Container With Most Water, Spiral Matrix, String Matching (KMP related)
+### II. Linked Lists and Stacks/Queues
+Reverse Linked List, Merge Two Sorted Lists, Linked List Cycle, Linked List Cycle II, LRU Cache, Valid Parentheses, Daily Temperatures, Merge k Sorted Lists
+### III. Trees and Binary Trees
+Binary Tree Level Order Traversal, Binary Tree Zigzag Level Order Traversal, Lowest Common Ancestor of a Binary Tree, Validate Binary Search Tree, Diameter of Binary Tree, Path Sum, Serialize and Deserialize Binary Tree, Symmetric Tree, Binary Tree Inorder/Preorder/Postorder Traversal (Recursive/Iterative)
+### IV. Dynamic Programming
+Climbing Stairs, Longest Increasing Subsequence, Longest Common Subsequence, Edit Distance, House Robber, Best Time to Buy and Sell Stock series, Knapsack Problems (0/1/Complete), Maximum Subarray, Integer Break, Unique Paths
+### V. Greedy and Binary Search
+Jump Game, Interval Scheduling, Assign Cookies, Gas Station, Search in Rotated Sorted Array, Binary Search, Find First and Last Position of Element in Sorted Array
+### VI. Graphs and Union-Find
+Number of Islands, Course Schedule, Course Schedule II, Shortest Path (Dijkstra/Floyd), Minimum Spanning Tree, Redundant Connection
+### VII. Backtracking and Permutations/Combinations
+Permutations, Subsets, Combination Sum, N-Queens, Generate Parentheses
+### VIII. Other High-Frequency
+Top K Problems, Number of 1 Bits, Single Number, Hamming Distance, Design Circular Queue
 
 ## 🌐 Practice Platforms
 - [LeetCode](https://leetcode.com/)
