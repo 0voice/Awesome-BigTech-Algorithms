@@ -29,15 +29,21 @@ A curated list of high-frequency LeetCode problems for Big Tech interviews✨
 - [JD.com](#jdcom)
 - [Huawei](#huawei)
 - [Xiaomi](#xiaomi)
-- [Microsoft](#microsoft)
 - [Didi](#didi)
 - [Ctrip](#ctrip)
+- [Bilibili](#bilibili)
+- [Kuaishou](#kuaishou)
+- [Microsoft](#microsoft)
+- [Google](#google)
+- [Amazon](#amazon)
 - [Pinduoduo](#pinduoduo)
 - [Xiaohongshu](#xiaohongshu)
-- [vivo](#vivo)
+- [miHoYo](#mihoyo)
+- [Vivo](#vivo)
 - [OPPO](#oppo)
 - [Ant Group](#ant-group)
 - [iFlytek](#iflytek)
+- [Meta](#meta)
 
 ### ByteDance
 | Problem Name | Tags | Difficulty | Frequency | Problem Link |
@@ -718,6 +724,211 @@ A curated list of high-frequency LeetCode problems for Big Tech interviews✨
 | Interleaving String | Medium | Dynamic Programming, String | Medium | [LeetCode 97](https://leetcode.com/problems/interleaving-string/) |
 | Edit Distance | Medium | Dynamic Programming, String | Medium | [LeetCode 72](https://leetcode.com/problems/edit-distance/) |
 
+### Meta
+| Problem Name | Tags | Difficulty | Frequency | Problem Link |
+|--------------|------|------------|-----------|--------------|
+| Two Sum | Array, Hash Table | Easy | High | [LeetCode 1](https://leetcode.com/problems/two-sum/) |
+| Valid Parentheses | Stack, String | Easy | High | [LeetCode 20](https://leetcode.com/problems/valid-parentheses/) |
+| Reverse Linked List | Linked List, Recursion | Easy | High | [LeetCode 206](https://leetcode.com/problems/reverse-linked-list/) |
+| Linked List Cycle | Linked List, Two Pointers | Easy | High | [LeetCode 141](https://leetcode.com/problems/linked-list-cycle/) |
+| Maximum Subarray | Array, Divide and Conquer, Dynamic Programming | Easy | High | [LeetCode 53](https://leetcode.com/problems/maximum-subarray/) |
+| Climbing Stairs | Dynamic Programming, Memoization | Easy | Medium | [LeetCode 70](https://leetcode.com/problems/climbing-stairs/) |
+| Number of Islands | Depth-First Search, Breadth-First Search, Union Find | Medium | High | [LeetCode 200](https://leetcode.com/problems/number-of-islands/) |
+| Clone Graph | Depth-First Search, Breadth-First Search, Graph | Medium | High | [LeetCode 133](https://leetcode.com/problems/clone-graph/) |
+| Longest Substring Without Repeating Characters | Hash Table, String, Sliding Window | Medium | High | [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| Merge Intervals | Array, Sorting | Medium | High | [LeetCode 56](https://leetcode.com/problems/merge-intervals/) |
+| Validate Binary Search Tree | Tree, Depth-First Search | Medium | High | [LeetCode 98](https://leetcode.com/problems/validate-binary-search-tree/) |
+| Lowest Common Ancestor of a Binary Tree | Tree, Depth-First Search, Binary Tree | Medium | High | [LeetCode 236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| Course Schedule | Depth-First Search, Breadth-First Search, Graph | Medium | High | [LeetCode 207](https://leetcode.com/problems/course-schedule/) |
+| Group Anagrams | Hash Table, String, Sorting | Medium | Medium | [LeetCode 49](https://leetcode.com/problems/group-anagrams/) |
+| Sliding Window Maximum | Array, Sliding Window, Queue | Medium | Medium | [LeetCode 239](https://leetcode.com/problems/sliding-window-maximum/) |
+| Pacific Atlantic Waterflow | Depth-First Search, Breadth-First Search, Array | Medium | Medium | [LeetCode 417](https://leetcode.com/problems/pacific-atlantic-waterflow/) |
+| Task Scheduler | Array, Greedy, Sorting | Medium | Medium | [LeetCode 621](https://leetcode.com/problems/task-scheduler/) |
+| Serialize and Deserialize Binary Tree | Tree, Depth-First Search, Breadth-First Search | Medium | Medium | [LeetCode 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |
+| Minimum Window Substring | Hash Table, String, Sliding Window | Hard | Medium | [LeetCode 76](https://leetcode.com/problems/minimum-window-substring/) |
+| Word Ladder | Breadth-First Search, Hash Table, String | Hard | Medium | [LeetCode 127](https://leetcode.com/problems/word-ladder/) |
+| Sliding Window Median | Design, Hash Table, Sliding Window | Hard | Medium | [LeetCode 480](https://leetcode.com/problems/sliding-window-median/) |
+| Verifying an Alien Dictionary | Hash Table, String, Greedy | Hard | Low | [LeetCode 953](https://leetcode.com/problems/verifying-an-alien-dictionary/) |
+| Find Longest Awesome Substring | Greedy, String, Dynamic Programming | Hard | Low | [LeetCode 1542](https://leetcode.com/problems/find-longest-awesome-substring/) |
+| Build Array Where You Can Find The Maximum Exactly K Comparisons | Dynamic Programming, String | Hard | Low | [LeetCode 1420](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) |
+
+### Google
+| Problem Name | Tags | Difficulty | Frequency | Problem Link |
+|--------------|------|------------|-----------|--------------|
+| Two Sum | Array, Hash Table | Easy | High | [LeetCode 1](https://leetcode.com/problems/two-sum/) |
+| Valid Parentheses | Stack, String | Easy | High | [LeetCode 20](https://leetcode.com/problems/valid-parentheses/) |
+| Reverse Linked List | Linked List, Recursion | Easy | High | [LeetCode 206](https://leetcode.com/problems/reverse-linked-list/) |
+| Linked List Cycle | Linked List, Two Pointers | Easy | High | [LeetCode 141](https://leetcode.com/problems/linked-list-cycle/) |
+| Maximum Subarray | Array, Divide and Conquer, Dynamic Programming | Easy | Medium | [LeetCode 53](https://leetcode.com/problems/maximum-subarray/) |
+| Happy Number | Hash Table, Math, Two Pointers | Easy | Medium | [LeetCode 202](https://leetcode.com/problems/happy-number/) |
+| Number of Islands | Depth-First Search, Breadth-First Search, Union Find | Medium | High | [LeetCode 200](https://leetcode.com/problems/number-of-islands/) |
+| Lowest Common Ancestor of a Binary Tree | Tree, Depth-First Search, Binary Tree | Medium | High | [LeetCode 236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| Merge Intervals | Array, Sorting | Medium | High | [LeetCode 56](https://leetcode.com/problems/merge-intervals/) |
+| Longest Substring Without Repeating Characters | Hash Table, String, Sliding Window | Medium | High | [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| 3Sum | Array, Two Pointers, Sorting | Medium | High | [LeetCode 15](https://leetcode.com/problems/3sum/) |
+| Validate Binary Search Tree | Tree, Depth-First Search | Medium | High | [LeetCode 98](https://leetcode.com/problems/validate-binary-search-tree/) |
+| Decode String | Stack, Recursion, String | Medium | Medium | [LeetCode 394](https://leetcode.com/problems/decode-string/) |
+| Unique Paths | Array, Dynamic Programming | Medium | Medium | [LeetCode 62](https://leetcode.com/problems/unique-paths/) |
+| Meeting Rooms II | Heap, Sorting, Interval | Medium | Medium | [LeetCode 253](https://leetcode.com/problems/meeting-rooms-ii/) |
+| Evaluate Reverse Polish Notation | Stack, Array, Math | Medium | Medium | [LeetCode 150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
+| Course Schedule | Depth-First Search, Breadth-First Search, Graph | Medium | Medium | [LeetCode 207](https://leetcode.com/problems/course-schedule/) |
+| Subsets | Bit Manipulation, Array, Backtracking | Medium | Medium | [LeetCode 78](https://leetcode.com/problems/subsets/) |
+| Search in Rotated Sorted Array | Array, Binary Search | Medium | Medium | [LeetCode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| Longest Palindromic Substring | Hash Table, String, Dynamic Programming | Medium | Medium | [LeetCode 5](https://leetcode.com/problems/longest-palindromic-substring/) |
+| Word Search | Array, Backtracking, Matrix | Medium | Medium | [LeetCode 79](https://leetcode.com/problems/word-search/) |
+| Meeting Rooms | Sorting, Heap, Greedy | Medium | Low | [LeetCode 252](https://leetcode.com/problems/meeting-rooms/) |
+| Minimum Time Difference | Heap, Sorting | Medium | Low | [LeetCode 539](https://leetcode.com/problems/minimum-time-difference/) |
+| Trapping Rain Water | Stack, Array, Two Pointers | Hard | Medium | [LeetCode 42](https://leetcode.com/problems/trapping-rain-water/) |
+| Minimum Window Substring | Hash Table, String, Sliding Window | Hard | Medium | [LeetCode 76](https://leetcode.com/problems/minimum-window-substring/) |
+| Median of Two Sorted Arrays | Array, Binary Search | Hard | Low | [LeetCode 4](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
+| Word Ladder | Breadth-First Search, Hash Table, String | Hard | Low | [LeetCode 127](https://leetcode.com/problems/word-ladder/) |
+| Regular Expression Matching | String, Dynamic Programming, Backtracking | Hard | Low | [LeetCode 10](https://leetcode.com/problems/regular-expression-matching/) |
+### Amazon
+| Problem Name | Tags | Difficulty | Frequency | Problem Link |
+|--------------|------|------------|-----------|--------------|
+| Two Sum | Array, Hash Table | Easy | High | [LeetCode 1](https://leetcode.com/problems/two-sum/) |
+| Merge Two Sorted Lists | Linked List, Recursion | Easy | High | [LeetCode 21](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| Reverse Linked List | Linked List, Recursion | Easy | High | [LeetCode 206](https://leetcode.com/problems/reverse-linked-list/) |
+| Best Time to Buy and Sell Stock | Array, Dynamic Programming | Easy | High | [LeetCode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| Longest Palindrome | String | Easy | High | [LeetCode 409](https://leetcode.com/problems/longest-palindrome/) |
+| Linked List Cycle | Linked List, Two Pointers | Easy | High | [LeetCode 141](https://leetcode.com/problems/linked-list-cycle/) |
+| Palindrome Linked List | Linked List, Two Pointers | Easy | High | [LeetCode 234](https://leetcode.com/problems/palindrome-linked-list/) |
+| Intersection of Two Linked Lists | Linked List, Two Pointers | Easy | High | [LeetCode 160](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
+| Valid Parentheses | Stack, String | Easy | Medium | [LeetCode 20](https://leetcode.com/problems/valid-parentheses/) |
+| Valid Anagram | Hash Table, String | Easy | Medium | [LeetCode 242](https://leetcode.com/problems/valid-anagram/) |
+| Number of Islands | Depth-First Search, Breadth-First Search, Union Find | Medium | High | [LeetCode 200](https://leetcode.com/problems/number-of-islands/) |
+| LRU Cache | Design, Hash Table, Linked List | Medium | High | [LeetCode 146](https://leetcode.com/problems/lru-cache/) |
+| Maximum Subarray | Array, Divide and Conquer, Dynamic Programming | Medium | High | [LeetCode 53](https://leetcode.com/problems/maximum-subarray/) |
+| Product of Array Except Self | Array, Prefix Sum | Medium | High | [LeetCode 238](https://leetcode.com/problems/product-of-array-except-self/) |
+| Invert Binary Tree | Tree, Depth-First Search, Breadth-First Search | Medium | High | [LeetCode 226](https://leetcode.com/problems/invert-binary-tree/) |
+| Binary Tree Inorder Traversal | Stack, Tree, Depth-First Search | Medium | High | [LeetCode 94](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
+| Set Matrix Zeroes | Array, Hash Table, Matrix | Medium | High | [LeetCode 73](https://leetcode.com/problems/set-matrix-zeroes/) |
+| Longest Substring Without Repeating Characters | Hash Table, String, Sliding Window | Medium | Medium | [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| Longest Palindromic Substring | Hash Table, String, Dynamic Programming | Medium | Medium | [LeetCode 5](https://leetcode.com/problems/longest-palindromic-substring/) |
+| 3Sum | Array, Two Pointers, Sorting | Medium | Medium | [LeetCode 15](https://leetcode.com/problems/3sum/) |
+| Group Anagrams | Hash Table, String, Sorting | Medium | Medium | [LeetCode 49](https://leetcode.com/problems/group-anagrams/) |
+| Merge Intervals | Array, Sorting | Medium | Medium | [LeetCode 56](https://leetcode.com/problems/merge-intervals/) |
+| Top K Frequent Elements | Array, Hash Table, Heap | Medium | Medium | [LeetCode 347](https://leetcode.com/problems/top-k-frequent-elements/) |
+| Subarray Sum Equals K | Array, Hash Table, Prefix Sum | Medium | Medium | [LeetCode 560](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| Validate Binary Search Tree | Tree, Depth-First Search | Medium | Medium | [LeetCode 98](https://leetcode.com/problems/validate-binary-search-tree/) |
+| Binary Tree Level Order Traversal | Tree, Breadth-First Search, Binary Tree | Medium | Medium | [LeetCode 102](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| Lowest Common Ancestor of a Binary Tree | Tree, Depth-First Search, Binary Tree | Medium | Medium | [LeetCode 236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| Min Stack | Stack, Design | Medium | Medium | [LeetCode 155](https://leetcode.com/problems/min-stack/) |
+| Merge k Sorted Lists | Heap, Divide and Conquer, Linked List | Hard | Medium | [LeetCode 23](https://leetcode.com/problems/merge-k-sorted-lists/) |
+| Trapping Rain Water | Stack, Array, Two Pointers | Hard | Low | [LeetCode 42](https://leetcode.com/problems/trapping-rain-water/) |
+### Bilibili
+| Problem Name | Tags | Difficulty | Frequency | Problem Link |
+|--------------|------|------------|-----------|--------------|
+| Two Sum | Array, Hash Table | Easy | High | [LeetCode 1](https://leetcode.com/problems/two-sum/) |
+| Valid Parentheses | Stack, String | Easy | High | [LeetCode 20](https://leetcode.com/problems/valid-parentheses/) |
+| Reverse Linked List | Linked List, Recursion | Easy | High | [LeetCode 206](https://leetcode.com/problems/reverse-linked-list/) |
+| Linked List Cycle | Linked List, Two Pointers | Easy | High | [LeetCode 141](https://leetcode.com/problems/linked-list-cycle/) |
+| Maximum Subarray | Array, Divide and Conquer, Dynamic Programming | Easy | High | [LeetCode 53](https://leetcode.com/problems/maximum-subarray/) |
+| Climbing Stairs | Dynamic Programming | Easy | Medium | [LeetCode 70](https://leetcode.com/problems/climbing-stairs/) |
+| Number of Islands | Depth-First Search, Breadth-First Search, Union Find | Medium | High | [LeetCode 200](https://leetcode.com/problems/number-of-islands/) |
+| Longest Substring Without Repeating Characters | Hash Table, String, Sliding Window | Medium | High | [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| Merge Intervals | Array, Sorting | Medium | High | [LeetCode 56](https://leetcode.com/problems/merge-intervals/) |
+| Validate Binary Search Tree | Tree, Depth-First Search | Medium | High | [LeetCode 98](https://leetcode.com/problems/validate-binary-search-tree/) |
+| Lowest Common Ancestor of a Binary Tree | Tree, Depth-First Search, Binary Tree | Medium | High | [LeetCode 236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| Course Schedule | Depth-First Search, Breadth-First Search, Graph | Medium | High | [LeetCode 207](https://leetcode.com/problems/course-schedule/) |
+| Group Anagrams | Hash Table, String, Sorting | Medium | Medium | [LeetCode 49](https://leetcode.com/problems/group-anagrams/) |
+| Sliding Window Maximum | Array, Sliding Window, Queue | Medium | Medium | [LeetCode 239](https://leetcode.com/problems/sliding-window-maximum/) |
+| Task Scheduler | Array, Greedy, Sorting | Medium | Medium | [LeetCode 621](https://leetcode.com/problems/task-scheduler/) |
+| Serialize and Deserialize Binary Tree | Tree, Depth-First Search, Breadth-First Search | Medium | Medium | [LeetCode 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |
+| Minimum Window Substring | Hash Table, String, Sliding Window | Hard | Medium | [LeetCode 76](https://leetcode.com/problems/minimum-window-substring/) |
+| Word Ladder | Breadth-First Search, Hash Table, String | Hard | Medium | [LeetCode 127](https://leetcode.com/problems/word-ladder/) |
+| Sliding Window Median | Design, Hash Table, Sliding Window | Hard | Medium | [LeetCode 480](https://leetcode.com/problems/sliding-window-median/) |
+| Verifying an Alien Dictionary | Hash Table, String, Greedy | Hard | Low | [LeetCode 953](https://leetcode.com/problems/verifying-an-alien-dictionary/) |
+| Find Longest Awesome Substring | Greedy, String, Dynamic Programming | Hard | Low | [LeetCode 1542](https://leetcode.com/problems/find-longest-awesome-substring/) |
+| Build Array Where You Can Find The Maximum Exactly K Comparisons | Dynamic Programming, String | Hard | Low | [LeetCode 1420](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) |
+| Clone Graph | Depth-First Search, Breadth-First Search, Graph | Medium | Low | [LeetCode 133](https://leetcode.com/problems/clone-graph/) |
+| Pacific Atlantic Waterflow | Depth-First Search, Breadth-First Search, Array | Medium | Low | [LeetCode 417](https://leetcode.com/problems/pacific-atlantic-waterflow/) |
+### Mihoyo
+| Problem Name | Tags | Difficulty | Frequency | Problem Link |
+|--------------|------|------------|-----------|--------------|
+| Two Sum | Array, Hash Table | Easy | High | [LeetCode 1](https://leetcode.com/problems/two-sum/) |
+| Valid Parentheses | Stack, String | Easy | High | [LeetCode 20](https://leetcode.com/problems/valid-parentheses/) |
+| Reverse Linked List | Linked List, Recursion | Easy | High | [LeetCode 206](https://leetcode.com/problems/reverse-linked-list/) |
+| Linked List Cycle | Linked List, Two Pointers | Easy | High | [LeetCode 141](https://leetcode.com/problems/linked-list-cycle/) |
+| Maximum Subarray | Array, Divide and Conquer, Dynamic Programming | Easy | High | [LeetCode 53](https://leetcode.com/problems/maximum-subarray/) |
+| Climbing Stairs | Dynamic Programming, Memoization | Easy | Medium | [LeetCode 70](https://leetcode.com/problems/climbing-stairs/) |
+| Number of Islands | Depth-First Search, Breadth-First Search, Union Find | Medium | High | [LeetCode 200](https://leetcode.com/problems/number-of-islands/) |
+| Clone Graph | Depth-First Search, Breadth-First Search, Graph | Medium | High | [LeetCode 133](https://leetcode.com/problems/clone-graph/) |
+| Longest Substring Without Repeating Characters | Hash Table, String, Sliding Window | Medium | High | [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| Merge Intervals | Array, Sorting | Medium | High | [LeetCode 56](https://leetcode.com/problems/merge-intervals/) |
+| Validate Binary Search Tree | Tree, Depth-First Search | Medium | High | [LeetCode 98](https://leetcode.com/problems/validate-binary-search-tree/) |
+| Lowest Common Ancestor of a Binary Tree | Tree, Depth-First Search, Binary Tree | Medium | High | [LeetCode 236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| Course Schedule | Depth-First Search, Breadth-First Search, Graph | Medium | High | [LeetCode 207](https://leetcode.com/problems/course-schedule/) |
+| Group Anagrams | Hash Table, String, Sorting | Medium | Medium | [LeetCode 49](https://leetcode.com/problems/group-anagrams/) |
+| Sliding Window Maximum | Array, Sliding Window, Queue | Medium | Medium | [LeetCode 239](https://leetcode.com/problems/sliding-window-maximum/) |
+| Pacific Atlantic Waterflow | Depth-First Search, Breadth-First Search, Array | Medium | Medium | [LeetCode 417](https://leetcode.com/problems/pacific-atlantic-waterflow/) |
+| Task Scheduler | Array, Greedy, Sorting | Medium | Medium | [LeetCode 621](https://leetcode.com/problems/task-scheduler/) |
+| Serialize and Deserialize Binary Tree | Tree, Depth-First Search, Breadth-First Search | Medium | Medium | [LeetCode 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |
+| Minimum Window Substring | Hash Table, String, Sliding Window | Hard | Medium | [LeetCode 76](https://leetcode.com/problems/minimum-window-substring/) |
+| Word Ladder | Breadth-First Search, Hash Table, String | Hard | Medium | [LeetCode 127](https://leetcode.com/problems/word-ladder/) |
+| Sliding Window Median | Design, Hash Table, Sliding Window | Hard | Medium | [LeetCode 480](https://leetcode.com/problems/sliding-window-median/) |
+| Verifying an Alien Dictionary | Hash Table, String, Greedy | Hard | Low | [LeetCode 953](https://leetcode.com/problems/verifying-an-alien-dictionary/) |
+| Find Longest Awesome Substring | Greedy, String, Dynamic Programming | Hard | Low | [LeetCode 1542](https://leetcode.com/problems/find-longest-awesome-substring/) |
+| Build Array Where You Can Find The Maximum Exactly K Comparisons | Dynamic Programming, String | Hard | Low | [LeetCode 1420](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) |
+### Kuaishou
+| Problem Name | Tags | Difficulty | Frequency | Problem Link |
+|--------------|------|------------|-----------|--------------|
+| Reverse Linked List | Linked List, Recursion | Easy | High | [LeetCode 206](https://leetcode.com/problems/reverse-linked-list/) |
+| Merge Two Sorted Lists | Linked List, Recursion | Easy | High | [LeetCode 21](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| Add Two Numbers | Linked List, Math | Medium | High | [LeetCode 2](https://leetcode.com/problems/add-two-numbers/) |
+| Intersection of Two Linked Lists | Linked List, Two Pointers | Easy | High | [LeetCode 160](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
+| Add Strings | String, Math | Medium | High | [LeetCode 415](https://leetcode.com/problems/add-strings/) |
+| Merge k Sorted Lists | Heap, Divide and Conquer, Linked List | Hard | High | [LeetCode 23](https://leetcode.com/problems/merge-k-sorted-lists/) |
+| Longest Common Subsequence | Array, Dynamic Programming | Medium | High | [LeetCode 1143](https://leetcode.com/problems/longest-common-subsequence/) |
+| Reverse Words in a String | Array, Two Pointers, String | Medium | High | [LeetCode 151](https://leetcode.com/problems/reverse-words-in-a-string/) |
+| Min Stack | Stack, Design | Medium | High | [LeetCode 155](https://leetcode.com/problems/min-stack/) |
+| Merge Sorted Array | Array, Two Pointers | Easy | High | [LeetCode 88](https://leetcode.com/problems/merge-sorted-array/) |
+| Longest Mountain in Array | Array, Two Pointers | Medium | High | [LeetCode 845](https://leetcode.com/problems/longest-mountain-in-array/) |
+| Find First and Last Position of Element in Sorted Array | Array, Binary Search | Medium | High | [LeetCode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| Binary Tree Level Order Traversal | Tree, Breadth-First Search, Binary Tree | Medium | High | [LeetCode 102](https://leetcode.com/problems/binary-tree-level-order-traversal/) |
+| Permutations | Array, Backtracking | Medium | Medium | [LeetCode 46](https://leetcode.com/problems/permutations/) |
+| Binary Search | Array, Binary Search | Easy | Medium | [LeetCode 704](https://leetcode.com/problems/binary-search/) |
+| Sliding Window Maximum | Array, Sliding Window, Queue | Hard | Medium | [LeetCode 239](https://leetcode.com/problems/sliding-window-maximum/) |
+| Remove Nth Node From End of List | Linked List, Two Pointers | Easy | Medium | [LeetCode 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
+| Reverse Nodes in k-Group | Linked List, Recursion | Medium | Medium | [LeetCode 25](https://leetcode.com/problems/reverse-nodes-in-k-group/) |
+| Sort Colors | Array, Two Pointers, Sorting | Medium | Medium | [LeetCode 75](https://leetcode.com/problems/sort-colors/) |
+| Binary Tree Zigzag Level Order Traversal | Tree, Breadth-First Search, Binary Tree | Medium | Medium | [LeetCode 103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |
+| Balanced Binary Tree | Tree, Depth-First Search | Medium | Medium | [LeetCode 110](https://leetcode.com/problems/balanced-binary-tree/) |
+| Binary Tree Postorder Traversal | Stack, Tree, Depth-First Search | Easy | Medium | [LeetCode 145](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
+| Maximum Subarray | Array, Divide and Conquer, Dynamic Programming | Medium | Medium | [LeetCode 53](https://leetcode.com/problems/maximum-subarray/) |
+| Trapping Rain Water | Stack, Array, Two Pointers | Hard | Medium | [LeetCode 42](https://leetcode.com/problems/trapping-rain-water/) |
+| Product of Array Except Self | Array, Prefix Sum | Medium | Medium | [LeetCode 238](https://leetcode.com/problems/product-of-array-except-self/) |
+| Linked List Cycle II | Linked List, Two Pointers | Medium | Low | [LeetCode 142](https://leetcode.com/problems/linked-list-cycle-ii/) |
+| Best Time to Buy and Sell Stock | Array, Dynamic Programming | Easy | Low | [LeetCode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| Swap Nodes in Pairs | Linked List, Recursion | Medium | Low | [LeetCode 24](https://leetcode.com/problems/swap-nodes-in-pairs/) |
+### Shopee
+| Problem Name | Tags | Difficulty | Frequency | Problem Link |
+|--------------|------|------------|-----------|--------------|
+| Two Sum | Array, Hash Table | Easy | High | [LeetCode 1](https://leetcode.com/problems/two-sum/) |
+| Valid Parentheses | Stack, String | Easy | High | [LeetCode 20](https://leetcode.com/problems/valid-parentheses/) |
+| Reverse Linked List | Linked List, Recursion | Easy | High | [LeetCode 206](https://leetcode.com/problems/reverse-linked-list/) |
+| Linked List Cycle | Linked List, Two Pointers | Easy | High | [LeetCode 141](https://leetcode.com/problems/linked-list-cycle/) |
+| Maximum Subarray | Array, Divide and Conquer, Dynamic Programming | Easy | High | [LeetCode 53](https://leetcode.com/problems/maximum-subarray/) |
+| Climbing Stairs | Dynamic Programming, Memoization | Easy | Medium | [LeetCode 70](https://leetcode.com/problems/climbing-stairs/) |
+| Number of Islands | Depth-First Search, Breadth-First Search, Union Find | Medium | High | [LeetCode 200](https://leetcode.com/problems/number-of-islands/) |
+| Invert Binary Tree | Tree, Depth-First Search, Breadth-First Search | Easy | High | [LeetCode 226](https://leetcode.com/problems/invert-binary-tree/) |
+| Longest Substring Without Repeating Characters | Hash Table, String, Sliding Window | Medium | High | [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| Merge Intervals | Array, Sorting | Medium | High | [LeetCode 56](https://leetcode.com/problems/merge-intervals/) |
+| Validate Binary Search Tree | Tree, Depth-First Search | Medium | High | [LeetCode 98](https://leetcode.com/problems/validate-binary-search-tree/) |
+| Lowest Common Ancestor of a Binary Tree | Tree, Depth-First Search, Binary Tree | Medium | High | [LeetCode 236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| Course Schedule | Depth-First Search, Breadth-First Search, Graph | Medium | High | [LeetCode 207](https://leetcode.com/problems/course-schedule/) |
+| Group Anagrams | Hash Table, String, Sorting | Medium | Medium | [LeetCode 49](https://leetcode.com/problems/group-anagrams/) |
+| Sliding Window Maximum | Array, Sliding Window, Queue | Medium | Medium | [LeetCode 239](https://leetcode.com/problems/sliding-window-maximum/) |
+| Pacific Atlantic Waterflow | Depth-First Search, Breadth-First Search, Array | Medium | Medium | [LeetCode 417](https://leetcode.com/problems/pacific-atlantic-waterflow/) |
+| Task Scheduler | Array, Greedy, Sorting | Medium | Medium | [LeetCode 621](https://leetcode.com/problems/task-scheduler/) |
+| Serialize and Deserialize Binary Tree | Tree, Depth-First Search, Breadth-First Search | Medium | Medium | [LeetCode 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |
+| Minimum Window Substring | Hash Table, String, Sliding Window | Hard | Medium | [LeetCode 76](https://leetcode.com/problems/minimum-window-substring/) |
+| Word Ladder | Breadth-First Search, Hash Table, String | Hard | Medium | [LeetCode 127](https://leetcode.com/problems/word-ladder/) |
+| Sliding Window Median | Design, Hash Table, Sliding Window | Hard | Medium | [LeetCode 480](https://leetcode.com/problems/sliding-window-median/) |
+| Verifying an Alien Dictionary | Hash Table, String, Greedy | Hard | Low | [LeetCode 953](https://leetcode.com/problems/verifying-an-alien-dictionary/) |
+| Find Longest Awesome Substring | Greedy, String, Dynamic Programming | Hard | Low | [LeetCode 1542](https://leetcode.com/problems/find-longest-awesome-substring/) |
+| Build Array Where You Can Find The Maximum Exactly K Comparisons | Dynamic Programming, String | Hard | Low | [LeetCode 1420](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) |
+| Clone Graph | Depth-First Search, Breadth-First Search, Graph | Medium | Low | [LeetCode 133](https://leetcode.com/problems/clone-graph/) |
 ## 🔑 Core Exam Points
 ### I. Data Structures
 - Arrays and Strings: Basic operations, substring/subarray problems, matching and compression, prefix sums/differences
