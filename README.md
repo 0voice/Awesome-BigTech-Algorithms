@@ -33,15 +33,21 @@
 - [京东](#京东)  
 - [华为](#华为)  
 - [小米](#小米)
-- [微软](#微软)
 - [滴滴](#滴滴)
 - [携程](#携程)
+- [b站](#bilibili)
+- [快手](#快手)
+- [微软](#微软)
+- [谷歌](#谷歌)
+- [亚马逊](#亚马逊)
 - [拼多多](#拼多多)
 - [小红书](#小红书)
+- [米哈游](#米哈游)
 - [vivo](#vivo)
 - [OPPO](#oppo)
 - [蚂蚁集团](#蚂蚁集团)
 - [科大讯飞](#科大讯飞)
+- [Meta](#meta)
 ### 字节跳动
 | 题目名称 | 标签 | 难度 | 频率 | 题目链接 |
 |----------|------|------|------|----------|
@@ -628,6 +634,7 @@
 | 最长公共子序列 | 中等 | 动态规划, 字符串 | 低 | [LeetCode 1143](https://leetcode.com/problems/longest-common-subsequence/) |
 | 组合总和 | 中等 | 回溯, 数组 | 低 | [LeetCode 39](https://leetcode.com/problems/combination-sum/) |
 
+
 ### 拼多多
 
 | 题目名称 | 难度 | 标签 | 频率 | 题目链接 |
@@ -802,6 +809,187 @@
 | 交错字符串 | 中等 | 动态规划, 字符串 | 中 | [LeetCode 97](https://leetcode.com/problems/interleaving-string/) |
 | 编辑距离 | 中等 | 动态规划, 字符串 | 中 | [LeetCode 72](https://leetcode.com/problems/edit-distance/) |
 
+### Meta
+| 题目名称 | 标签 | 难度 | 频率 | 题目链接 |
+|----------|------|------|------|----------|
+| 两数之和 | 数组, 哈希表 | 简单 | 高 | [LeetCode 1](https://leetcode.cn/problems/two-sum/) |
+| 有效的括号 | 栈, 字符串 | 简单 | 高 | [LeetCode 20](https://leetcode.cn/problems/valid-parentheses/) |
+| 反转链表 | 链表, 递归 | 简单 | 高 | [LeetCode 206](https://leetcode.cn/problems/reverse-linked-list/) |
+| 环形链表 | 链表, 双指针 | 简单 | 高 | [LeetCode 141](https://leetcode.cn/problems/linked-list-cycle/) |
+| 最大子数组和 | 数组, 分治, 动态规划 | 简单 | 高 | [LeetCode 53](https://leetcode.cn/problems/maximum-subarray/) |
+| 爬楼梯 | 动态规划, 记忆化搜索 | 简单 | 中 | [LeetCode 70](https://leetcode.cn/problems/climbing-stairs/) |
+| 岛屿数量 | 深度优先搜索, 广度优先搜索, 并查集 | 中等 | 高 | [LeetCode 200](https://leetcode.cn/problems/number-of-islands/) |
+| 克隆图 | 深度优先搜索, 广度优先搜索, 图 | 中等 | 高 | [LeetCode 133](https://leetcode.cn/problems/clone-graph/) |
+| 无重复字符的最长子串 | 哈希表, 字符串, 滑动窗口 | 中等 | 高 | [LeetCode 3](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) |
+| 合并区间 | 数组, 排序 | 中等 | 高 | [LeetCode 56](https://leetcode.cn/problems/merge-intervals/) |
+| 验证二叉搜索树 | 树, 深度优先搜索 | 中等 | 高 | [LeetCode 98](https://leetcode.cn/problems/validate-binary-search-tree/) |
+| 二叉树的最近公共祖先 | 树, 深度优先搜索, 二叉树 | 中等 | 高 | [LeetCode 236](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| 课程表 | 深度优先搜索, 广度优先搜索, 图 | 中等 | 高 | [LeetCode 207](https://leetcode.cn/problems/course-schedule/) |
+| 字母异位词分组 | 哈希表, 字符串, 排序 | 中等 | 中 | [LeetCode 49](https://leetcode.cn/problems/group-anagrams/) |
+| 滑动窗口最大值 | 数组, 滑动窗口, 队列 | 中等 | 中 | [LeetCode 239](https://leetcode.cn/problems/sliding-window-maximum/) |
+| 太平洋大西洋水流问题 | 深度优先搜索, 广度优先搜索, 数组 | 中等 | 中 | [LeetCode 417](https://leetcode.cn/problems/pacific-atlantic-waterflow/) |
+| 任务调度器 | 数组, 贪心, 排序 | 中等 | 中 | [LeetCode 621](https://leetcode.cn/problems/task-scheduler/) |
+| 序列化与反序列化二叉树 | 树, 深度优先搜索, 广度优先搜索 | 中等 | 中 | [LeetCode 297](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/) |
+| 最小窗口子字符串 | 哈希表, 字符串, 滑动窗口 | 困难 | 中 | [LeetCode 76](https://leetcode.cn/problems/minimum-window-substring/) |
+| 单词接龙 | 广度优先搜索, 哈希表, 字符串 | 困难 | 中 | [LeetCode 127](https://leetcode.cn/problems/word-ladder/) |
+| 滑动窗口中位数 | 设计, 哈希表, 滑动窗口 | 困难 | 中 | [LeetCode 480](https://leetcode.cn/problems/sliding-window-median/) |
+| 外星人文本 | 哈希表, 字符串, 贪心 | 困难 | 低 | [LeetCode 953](https://leetcode.cn/problems/verifying-an-alien-dictionary/) |
+| 最小化恶意字符串 | 贪心, 字符串, 动态规划 | 困难 | 低 | [LeetCode 1542](https://leetcode.cn/problems/find-longest-awesome-substring/) |
+| 最大化分数 | 动态规划, 字符串 | 困难 | 低 | [LeetCode 1420](https://leetcode.cn/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) |
+
+### 谷歌
+| 题目名称 | 标签 | 难度 | 频率 | 题目链接 |
+|----------|------|------|------|----------|
+| 两数之和 | 数组, 哈希表 | 简单 | 高 | [LeetCode 1](https://leetcode.cn/problems/two-sum/) |
+| 有效的括号 | 栈, 字符串 | 简单 | 高 | [LeetCode 20](https://leetcode.cn/problems/valid-parentheses/) |
+| 反转链表 | 链表, 递归 | 简单 | 高 | [LeetCode 206](https://leetcode.cn/problems/reverse-linked-list/) |
+| 环形链表 | 链表, 双指针 | 简单 | 高 | [LeetCode 141](https://leetcode.cn/problems/linked-list-cycle/) |
+| 最大子数组和 | 数组, 分治, 动态规划 | 简单 | 中 | [LeetCode 53](https://leetcode.cn/problems/maximum-subarray/) |
+| 快乐数 | 哈希表, 数学, 双指针 | 简单 | 中 | [LeetCode 202](https://leetcode.cn/problems/happy-number/) |
+| 岛屿数量 | 深度优先搜索, 广度优先搜索, 并查集 | 中等 | 高 | [LeetCode 200](https://leetcode.cn/problems/number-of-islands/) |
+| 二叉树的最近公共祖先 | 树, 深度优先搜索, 二叉树 | 中等 | 高 | [LeetCode 236](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| 合并区间 | 数组, 排序 | 中等 | 高 | [LeetCode 56](https://leetcode.cn/problems/merge-intervals/) |
+| 无重复字符的最长子串 | 哈希表, 字符串, 滑动窗口 | 中等 | 高 | [LeetCode 3](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) |
+| 三数之和 | 数组, 双指针, 排序 | 中等 | 高 | [LeetCode 15](https://leetcode.cn/problems/3sum/) |
+| 验证二叉搜索树 | 树, 深度优先搜索 | 中等 | 高 | [LeetCode 98](https://leetcode.cn/problems/validate-binary-search-tree/) |
+| 解码字符串 | 栈, 递归, 字符串 | 中等 | 中 | [LeetCode 394](https://leetcode.cn/problems/decode-string/) |
+| 不同路径 | 数组, 动态规划 | 中等 | 中 | [LeetCode 62](https://leetcode.cn/problems/unique-paths/) |
+| 会议室 II | 堆, 排序, 区间 | 中等 | 中 | [LeetCode 253](https://leetcode.cn/problems/meeting-rooms-ii/) |
+| 逆波兰表达式求值 | 栈, 数组, 数学 | 中等 | 中 | [LeetCode 150](https://leetcode.cn/problems/evaluate-reverse-polish-notation/) |
+| 课程表 | 深度优先搜索, 广度优先搜索, 图 | 中等 | 中 | [LeetCode 207](https://leetcode.cn/problems/course-schedule/) |
+| 子集 | 位运算, 数组, 回溯 | 中等 | 中 | [LeetCode 78](https://leetcode.cn/problems/subsets/) |
+| 搜索旋转排序数组 | 数组, 二分查找 | 中等 | 中 | [LeetCode 33](https://leetcode.cn/problems/search-in-rotated-sorted-array/) |
+| 最长回文子串 | 哈希表, 字符串, 动态规划 | 中等 | 中 | [LeetCode 5](https://leetcode.cn/problems/longest-palindromic-substring/) |
+| 单词搜索 | 数组, 回溯, 矩阵 | 中等 | 中 | [LeetCode 79](https://leetcode.cn/problems/word-search/) |
+| 会议室 | 排序, 堆, 贪心 | 中等 | 低 | [LeetCode 252](https://leetcode.cn/problems/meeting-rooms/) |
+| 最小时间差 | 堆, 排序 | 中等 | 低 | [LeetCode 539](https://leetcode.cn/problems/minimum-time-difference/) |
+| 接雨水 | 栈, 数组, 双指针 | 困难 | 中 | [LeetCode 42](https://leetcode.cn/problems/trapping-rain-water/) |
+| 最小窗口子字符串 | 哈希表, 字符串, 滑动窗口 | 困难 | 中 | [LeetCode 76](https://leetcode.cn/problems/minimum-window-substring/) |
+| 寻找两个正序数组的中位数 | 数组, 二分查找 | 困难 | 低 | [LeetCode 4](https://leetcode.cn/problems/median-of-two-sorted-arrays/) |
+| 单词接龙 | 广度优先搜索, 哈希表, 字符串 | 困难 | 低 | [LeetCode 127](https://leetcode.cn/problems/word-ladder/) |
+| 正则表达式匹配 | 字符串, 动态规划, 回溯 | 困难 | 低 | [LeetCode 10](https://leetcode.cn/problems/regular-expression-matching/) |
+
+### 亚马逊
+| 题目名称 | 标签 | 难度 | 频率 | 题目链接 |
+|----------|------|------|------|----------|
+| 两数之和 | 数组, 哈希表 | 简单 | 高 | [LeetCode 1](https://leetcode.cn/problems/two-sum/) |
+| 合并两个有序链表 | 链表, 递归 | 简单 | 高 | [LeetCode 21](https://leetcode.cn/problems/merge-two-sorted-lists/) |
+| 反转链表 | 链表, 递归 | 简单 | 高 | [LeetCode 206](https://leetcode.cn/problems/reverse-linked-list/) |
+| 买卖股票的最佳时机 | 数组, 动态规划 | 简单 | 高 | [LeetCode 121](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) |
+| 最长回文子串 | 字符串 | 简单 | 高 | [LeetCode 409](https://leetcode.cn/problems/longest-palindrome/) |
+| 环形链表 | 链表, 双指针 | 简单 | 高 | [LeetCode 141](https://leetcode.cn/problems/linked-list-cycle/) |
+| 回文链表 | 链表, 双指针 | 简单 | 高 | [LeetCode 234](https://leetcode.cn/problems/palindrome-linked-list/) |
+| 两链表的相交节点 | 链表, 双指针 | 简单 | 高 | [LeetCode 160](https://leetcode.cn/problems/intersection-of-two-linked-lists/) |
+| 有效的括号 | 栈, 字符串 | 简单 | 中 | [LeetCode 20](https://leetcode.cn/problems/valid-parentheses/) |
+| 有效的字母异位词 | 哈希表, 字符串 | 简单 | 中 | [LeetCode 242](https://leetcode.cn/problems/valid-anagram/) |
+| 岛屿数量 | 深度优先搜索, 广度优先搜索, 并查集 | 中等 | 高 | [LeetCode 200](https://leetcode.cn/problems/number-of-islands/) |
+| LRU缓存机制 | 设计, 哈希表, 链表 | 中等 | 高 | [LeetCode 146](https://leetcode.cn/problems/lru-cache/) |
+| 最大子数组和 | 数组, 分治, 动态规划 | 中等 | 高 | [LeetCode 53](https://leetcode.cn/problems/maximum-subarray/) |
+| 除自身以外数组的乘积 | 数组, 前缀和 | 中等 | 高 | [LeetCode 238](https://leetcode.cn/problems/product-of-array-except-self/) |
+| 二叉树的镜像 | 树, 深度优先搜索, 广度优先搜索 | 中等 | 高 | [LeetCode 226](https://leetcode.cn/problems/invert-binary-tree/) |
+| 二叉树的中序遍历 | 栈, 树, 深度优先搜索 | 中等 | 高 | [LeetCode 94](https://leetcode.cn/problems/binary-tree-inorder-traversal/) |
+| 零矩阵 | 数组, 哈希表, 矩阵 | 中等 | 高 | [LeetCode 73](https://leetcode.cn/problems/set-matrix-zeroes/) |
+| 无重复字符的最长子串 | 哈希表, 字符串, 滑动窗口 | 中等 | 中 | [LeetCode 3](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) |
+| 最长回文子串 | 哈希表, 字符串, 动态规划 | 中等 | 中 | [LeetCode 5](https://leetcode.cn/problems/longest-palindromic-substring/) |
+| 三数之和 | 数组, 双指针, 排序 | 中等 | 中 | [LeetCode 15](https://leetcode.cn/problems/3sum/) |
+| 字母异位词分组 | 哈希表, 字符串, 排序 | 中等 | 中 | [LeetCode 49](https://leetcode.cn/problems/group-anagrams/) |
+| 合并区间 | 数组, 排序 | 中等 | 中 | [LeetCode 56](https://leetcode.cn/problems/merge-intervals/) |
+| 前 K 个高频元素 | 数组, 哈希表, 堆 | 中等 | 中 | [LeetCode 347](https://leetcode.cn/problems/top-k-frequent-elements/) |
+| 和为 K 的子数组 | 数组, 哈希表, 前缀和 | 中等 | 中 | [LeetCode 560](https://leetcode.cn/problems/subarray-sum-equals-k/) |
+| 验证二叉搜索树 | 树, 深度优先搜索 | 中等 | 中 | [LeetCode 98](https://leetcode.cn/problems/validate-binary-search-tree/) |
+| 二叉树的层序遍历 | 树, 广度优先搜索, 二叉树 | 中等 | 中 | [LeetCode 102](https://leetcode.cn/problems/binary-tree-level-order-traversal/) |
+| 二叉树的最近公共祖先 | 树, 深度优先搜索, 二叉树 | 中等 | 中 | [LeetCode 236](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| 最小栈 | 栈, 设计 | 中等 | 中 | [LeetCode 155](https://leetcode.cn/problems/min-stack/) |
+| 合并 K 个升序链表 | 堆, 分治, 链表 | 困难 | 中 | [LeetCode 23](https://leetcode.cn/problems/merge-k-sorted-lists/) |
+| 接雨水 | 栈, 数组, 双指针 | 困难 | 低 | [LeetCode 42](https://leetcode.cn/problems/trapping-rain-water/) |
+
+### Bilibili
+| 题目名称 | 标签 | 难度 | 频率 | 题目链接 |
+|----------|------|------|------|----------|
+| 两数之和 | 数组, 哈希表 | 简单 | 高 | [LeetCode 1](https://leetcode.cn/problems/two-sum/) |
+| 有效的括号 | 栈, 字符串 | 简单 | 高 | [LeetCode 20](https://leetcode.cn/problems/valid-parentheses/) |
+| 反转链表 | 链表, 递归 | 简单 | 高 | [LeetCode 206](https://leetcode.cn/problems/reverse-linked-list/) |
+| 环形链表 | 链表, 双指针 | 简单 | 高 | [LeetCode 141](https://leetcode.cn/problems/linked-list-cycle/) |
+| 最大子数组和 | 数组, 分治, 动态规划 | 简单 | 高 | [LeetCode 53](https://leetcode.cn/problems/maximum-subarray/) |
+| 爬楼梯 | 动态规划 | 简单 | 中 | [LeetCode 70](https://leetcode.cn/problems/climbing-stairs/) |
+| 岛屿数量 | 深度优先搜索, 广度优先搜索, 并查集 | 中等 | 高 | [LeetCode 200](https://leetcode.cn/problems/number-of-islands/) |
+| 无重复字符的最长子串 | 哈希表, 字符串, 滑动窗口 | 中等 | 高 | [LeetCode 3](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) |
+| 合并区间 | 数组, 排序 | 中等 | 高 | [LeetCode 56](https://leetcode.cn/problems/merge-intervals/) |
+| 验证二叉搜索树 | 树, 深度优先搜索 | 中等 | 高 | [LeetCode 98](https://leetcode.cn/problems/validate-binary-search-tree/) |
+| 二叉树的最近公共祖先 | 树, 深度优先搜索, 二叉树 | 中等 | 高 | [LeetCode 236](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| 课程表 | 深度优先搜索, 广度优先搜索, 图 | 中等 | 高 | [LeetCode 207](https://leetcode.cn/problems/course-schedule/) |
+| 字母异位词分组 | 哈希表, 字符串, 排序 | 中等 | 中 | [LeetCode 49](https://leetcode.cn/problems/group-anagrams/) |
+| 滑动窗口最大值 | 数组, 滑动窗口, 队列 | 中等 | 中 | [LeetCode 239](https://leetcode.cn/problems/sliding-window-maximum/) |
+| 任务调度器 | 数组, 贪心, 排序 | 中等 | 中 | [LeetCode 621](https://leetcode.cn/problems/task-scheduler/) |
+| 序列化与反序列化二叉树 | 树, 深度优先搜索, 广度优先搜索 | 中等 | 中 | [LeetCode 297](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/) |
+| 最小窗口子字符串 | 哈希表, 字符串, 滑动窗口 | 困难 | 中 | [LeetCode 76](https://leetcode.cn/problems/minimum-window-substring/) |
+| 单词接龙 | 广度优先搜索, 哈希表, 字符串 | 困难 | 中 | [LeetCode 127](https://leetcode.cn/problems/word-ladder/) |
+| 滑动窗口中位数 | 设计, 哈希表, 滑动窗口 | 困难 | 中 | [LeetCode 480](https://leetcode.cn/problems/sliding-window-median/) |
+| 外星人文本 | 哈希表, 字符串, 贪心 | 困难 | 低 | [LeetCode 953](https://leetcode.cn/problems/verifying-an-alien-dictionary/) |
+| 最小化恶意字符串 | 贪心, 字符串, 动态规划 | 困难 | 低 | [LeetCode 1542](https://leetcode.cn/problems/find-longest-awesome-substring/) |
+| 最大化分数 | 动态规划, 字符串 | 困难 | 低 | [LeetCode 1420](https://leetcode.cn/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) |
+| 克隆图 | 深度优先搜索, 广度优先搜索, 图 | 中等 | 低 | [LeetCode 133](https://leetcode.cn/problems/clone-graph/) |
+| 太平洋大西洋水流问题 | 深度优先搜索, 广度优先搜索, 数组 | 中等 | 低 | [LeetCode 417](https://leetcode.cn/problems/pacific-atlantic-waterflow/) |
+
+### 米哈游
+| 题目名称 | 标签 | 难度 | 频率 | 题目链接 |
+|----------|------|------|------|----------|
+| 两数之和 | 数组, 哈希表 | 简单 | 高 | [LeetCode 1](https://leetcode.cn/problems/two-sum/) |
+| 有效的括号 | 栈, 字符串 | 简单 | 高 | [LeetCode 20](https://leetcode.cn/problems/valid-parentheses/) |
+| 反转链表 | 链表, 递归 | 简单 | 高 | [LeetCode 206](https://leetcode.cn/problems/reverse-linked-list/) |
+| 环形链表 | 链表, 双指针 | 简单 | 高 | [LeetCode 141](https://leetcode.cn/problems/linked-list-cycle/) |
+| 最大子数组和 | 数组, 分治, 动态规划 | 简单 | 高 | [LeetCode 53](https://leetcode.cn/problems/maximum-subarray/) |
+| 爬楼梯 | 动态规划, 记忆化搜索 | 简单 | 中 | [LeetCode 70](https://leetcode.cn/problems/climbing-stairs/) |
+| 岛屿数量 | 深度优先搜索, 广度优先搜索, 并查集 | 中等 | 高 | [LeetCode 200](https://leetcode.cn/problems/number-of-islands/) |
+| 克隆图 | 深度优先搜索, 广度优先搜索, 图 | 中等 | 高 | [LeetCode 133](https://leetcode.cn/problems/clone-graph/) |
+| 无重复字符的最长子串 | 哈希表, 字符串, 滑动窗口 | 中等 | 高 | [LeetCode 3](https://leetcode.cn/problems/longest-substring-without-repeating-characters/) |
+| 合并区间 | 数组, 排序 | 中等 | 高 | [LeetCode 56](https://leetcode.cn/problems/merge-intervals/) |
+| 验证二叉搜索树 | 树, 深度优先搜索 | 中等 | 高 | [LeetCode 98](https://leetcode.cn/problems/validate-binary-search-tree/) |
+| 二叉树的最近公共祖先 | 树, 深度优先搜索, 二叉树 | 中等 | 高 | [LeetCode 236](https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-tree/) |
+| 课程表 | 深度优先搜索, 广度优先搜索, 图 | 中等 | 高 | [LeetCode 207](https://leetcode.cn/problems/course-schedule/) |
+| 字母异位词分组 | 哈希表, 字符串, 排序 | 中等 | 中 | [LeetCode 49](https://leetcode.cn/problems/group-anagrams/) |
+| 滑动窗口最大值 | 数组, 滑动窗口, 队列 | 中等 | 中 | [LeetCode 239](https://leetcode.cn/problems/sliding-window-maximum/) |
+| 太平洋大西洋水流问题 | 深度优先搜索, 广度优先搜索, 数组 | 中等 | 中 | [LeetCode 417](https://leetcode.cn/problems/pacific-atlantic-waterflow/) |
+| 任务调度器 | 数组, 贪心, 排序 | 中等 | 中 | [LeetCode 621](https://leetcode.cn/problems/task-scheduler/) |
+| 序列化与反序列化二叉树 | 树, 深度优先搜索, 广度优先搜索 | 中等 | 中 | [LeetCode 297](https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/) |
+| 最小窗口子字符串 | 哈希表, 字符串, 滑动窗口 | 困难 | 中 | [LeetCode 76](https://leetcode.cn/problems/minimum-window-substring/) |
+| 单词接龙 | 广度优先搜索, 哈希表, 字符串 | 困难 | 中 | [LeetCode 127](https://leetcode.cn/problems/word-ladder/) |
+| 滑动窗口中位数 | 设计, 哈希表, 滑动窗口 | 困难 | 中 | [LeetCode 480](https://leetcode.cn/problems/sliding-window-median/) |
+| 外星人文本 | 哈希表, 字符串, 贪心 | 困难 | 低 | [LeetCode 953](https://leetcode.cn/problems/verifying-an-alien-dictionary/) |
+| 最小化恶意字符串 | 贪心, 字符串, 动态规划 | 困难 | 低 | [LeetCode 1542](https://leetcode.cn/problems/find-longest-awesome-substring/) |
+| 最大化分数 | 动态规划, 字符串 | 困难 | 低 | [LeetCode 1420](https://leetcode.cn/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) |
+
+### 快手
+| 题目名称 | 标签 | 难度 | 频率 | 题目链接 |
+|----------|------|------|------|----------|
+| 反转链表 | 链表, 递归 | 简单 | 高 | [LeetCode 206](https://leetcode.cn/problems/reverse-linked-list/) |
+| 合并两个有序链表 | 链表, 递归 | 简单 | 高 | [LeetCode 21](https://leetcode.cn/problems/merge-two-sorted-lists/) |
+| 两数相加 | 链表, 数学 | 中等 | 高 | [LeetCode 2](https://leetcode.cn/problems/add-two-numbers/) |
+| 相交链表 | 链表, 双指针 | 简单 | 高 | [LeetCode 160](https://leetcode.cn/problems/intersection-of-two-linked-lists/) |
+| 字符串相加 | 字符串, 数学 | 中等 | 高 | [LeetCode 415](https://leetcode.cn/problems/add-strings/) |
+| 合并 K 个升序链表 | 堆, 分治, 链表 | 困难 | 高 | [LeetCode 23](https://leetcode.cn/problems/merge-k-sorted-lists/) |
+| 最长公共子序列 | 数组, 动态规划 | 中等 | 高 | [LeetCode 1143](https://leetcode.cn/problems/longest-common-subsequence/) |
+| 翻转字符串里的单词 | 数组, 双指针, 字符串 | 中等 | 高 | [LeetCode 151](https://leetcode.cn/problems/reverse-words-in-a-string/) |
+| 最小栈 | 栈, 设计 | 中等 | 高 | [LeetCode 155](https://leetcode.cn/problems/min-stack/) |
+| 合并两个有序数组 | 数组, 双指针 | 简单 | 高 | [LeetCode 88](https://leetcode.cn/problems/merge-sorted-array/) |
+| 数组中的最长山脉 | 数组, 双指针 | 中等 | 高 | [LeetCode 845](https://leetcode.cn/problems/longest-mountain-in-array/) |
+| 在排序数组中查找元素的第一个和最后一个位置 | 数组, 二分查找 | 中等 | 高 | [LeetCode 34](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| 二叉树的层序遍历 | 树, 广度优先搜索, 二叉树 | 中等 | 高 | [LeetCode 102](https://leetcode.cn/problems/binary-tree-level-order-traversal/) |
+| 全排列 | 数组, 回溯 | 中等 | 中 | [LeetCode 46](https://leetcode.cn/problems/permutations/) |
+| 二分查找 | 数组, 二分查找 | 简单 | 中 | [LeetCode 704](https://leetcode.cn/problems/binary-search/) |
+| 滑动窗口最大值 | 数组, 滑动窗口, 队列 | 困难 | 中 | [LeetCode 239](https://leetcode.cn/problems/sliding-window-maximum/) |
+| 链表中倒数第 k 个节点 | 链表, 双指针 | 简单 | 中 | [LeetCode 19](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/) |
+| K 个一组翻转链表 | 链表, 递归 | 中等 | 中 | [LeetCode 25](https://leetcode.cn/problems/reverse-nodes-in-k-group/) |
+| 颜色分类 | 数组, 双指针, 排序 | 中等 | 中 | [LeetCode 75](https://leetcode.cn/problems/sort-colors/) |
+| 二叉树的锯齿形层次遍历 | 树, 广度优先搜索, 二叉树 | 中等 | 中 | [LeetCode 103](https://leetcode.cn/problems/binary-tree-zigzag-level-order-traversal/) |
+| 平衡二叉树 | 树, 深度优先搜索 | 中等 | 中 | [LeetCode 110](https://leetcode.cn/problems/balanced-binary-tree/) |
+| 二叉树的后序遍历 | 栈, 树, 深度优先搜索 | 简单 | 中 | [LeetCode 145](https://leetcode.cn/problems/binary-tree-postorder-traversal/) |
+| 最大子序和 | 数组, 分治, 动态规划 | 中等 | 中 | [LeetCode 53](https://leetcode.cn/problems/maximum-subarray/) |
+| 接雨水 | 栈, 数组, 双指针 | 困难 | 中 | [LeetCode 42](https://leetcode.cn/problems/trapping-rain-water/) |
+| 除自身以外数组的乘积 | 数组, 前缀和 | 中等 | 中 | [LeetCode 238](https://leetcode.cn/problems/product-of-array-except-self/) |
+| 环形链表 II | 链表, 双指针 | 中等 | 低 | [LeetCode 142](https://leetcode.cn/problems/linked-list-cycle-ii/) |
+| 买卖股票的最佳时机 | 数组, 动态规划 | 简单 | 低 | [LeetCode 121](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/) |
+| 两两交换链表中的节点 | 链表, 递归 | 中等 | 低 | [LeetCode 24](https://leetcode.cn/problems/swap-nodes-in-pairs/) |
 ## 🔑 核心考点
 
 ### 一、数据结构
